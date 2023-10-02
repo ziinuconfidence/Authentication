@@ -1,0 +1,110 @@
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('IMAGE/back.jpeg');
+    background-repeat: no-repeat;
+    background-color: rgb(3, 3, 172);
+    background-size: cover;
+    max-width: 100%;
+    height: 100%;
+ }
+
+.cont {width: 35%;
+    background-color: white;
+    padding: 1vw;
+    margin-top: 8vw;
+    margin-right: 25vw;
+    margin-left: 32vw;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 1vw;
+   
+}
+
+.upload { width: 20%;
+        border-radius: 10vw;
+        margin-top: 3vw;
+        margin-left: 14vw;
+        margin-right: 5;
+        margin-bottom: 3vw;}
+
+input { width: 80%;
+        height: 10%;
+        padding: 1vw;
+        margin-bottom: 1vw;
+        margin-left: 2vw;
+        font-size: 1vw;
+        background-color: rgb(220, 220, 253);
+        border: none;}
+
+ button {background-color: rgb(2, 2, 78);
+        padding: 1vw;
+        width: 20%;
+        height: 2%;
+        color: white;
+        margin-left: 3vw;
+        border: none;}
+    
+.Cancel {background-color: rgb(2, 2, 78);
+            padding: 1vw;
+            width: 20%;
+            height: 2%;
+            color: white;
+            margin-left: 12vw;
+            border: none;}
+
+.Cancel:hover { background-color: aqua;}
+button:hover { background-color: aqua;}
+
+.ch { margin-left: 0;
+        margin-right: 15vw;
+      width: 2%;
+      margin-top: 2vw;
+    margin-bottom: 2vw;} 
+      
+ .lab { margin-left: 3vw;}
+
+
+ /*page 2*/
+
+ .cont1 {width: 60%;
+        background-color: white;
+        padding: 3vw;
+        margin-top: 5vw;
+        margin-right: 25vw;
+        margin-left: 17vw;
+        font-family: cursive;
+        font-size: 1vw;
+        text-align: center;
+        padding-right: 2vw;
+        margin-bottom: 2vw;
+}
+
+.cont2 {width: 60%;
+        background-color: white;
+        padding: 3vw;
+        margin-right: 25vw;
+        margin-left: 17vw;
+        font-family: cursive;
+        font-size: 1vw;
+        padding-right: 2vw;
+}
+
+
+.upload2 { width: 20%;
+        border-radius: 10vw;
+        margin-top: 1vw;
+        }
+
+th, tr { padding: 1vw;
+        width: 2%;
+        background-color: rgb(210, 231, 252);}
+
+td      { padding: 1vw;
+        width: 2%;
+        text-align: center;}
+
+.tr1      { padding: 1vw;
+        width: 2%;
+        background-color: rgb(235, 236, 236);}
+               
